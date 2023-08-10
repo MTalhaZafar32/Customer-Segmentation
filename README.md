@@ -1,2 +1,2 @@
 # ML-project
-clustering
+clusterin
