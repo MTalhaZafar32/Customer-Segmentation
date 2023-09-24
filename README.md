@@ -30,4 +30,13 @@ CustomerSegmentation/
 ```
 
 
+- The `data/` directory contains the dataset used for customer segmentation (`Mall_Customers.csv`).
+
+- The `notebooks/` directory includes the Jupyter notebook `Customers_Segmentation.ipynb`, where different clustering models are applied, and customer segmentation is performed.
+
+## Getting Started
+To get started with the project, follow these steps:
+
+1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
+git clone https://github.com/your-username/Customer-Segmentation.git
 
