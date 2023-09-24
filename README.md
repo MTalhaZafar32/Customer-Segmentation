@@ -16,3 +16,18 @@ The primary objective of this project is to perform customer segmentation using 
 ## Repository Structure
 The repository is structured as follows:
 
+```
+CustomerSegmentation/
+├── data/
+│ ├── Mall_Customers.csv
+│
+├── notebooks/
+│ ├── Customers_Segmentation.ipynb
+│ └── ...
+├── README.md
+└── .gitignore
+
+```
+
+
+
