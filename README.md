@@ -40,3 +40,22 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 git clone https://github.com/your-username/Customer-Segmentation.git
 
+2. **Install Dependencies:** If there are any specific Python dependencies required for the project, you can install them.
+
+3. **Explore the Data:** Navigate to the `data/` directory to find the dataset (`Mall_Customers.csv`) containing customer information.
+
+4. **Notebook Analysis:** Open the `notebooks/Customers_Segmentation.ipynb` notebook to view the analysis and application of different clustering models for customer segmentation.
+
+## Data Files
+- `Mall_Customers.csv`: The dataset containing information about mall customers, which is used for customer segmentation.
+
+## Contributions
+Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
+
+## License
+This project is licensed under the `MIT License`.
+
+## Acknowledgments
+This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and clustering.
+
+
