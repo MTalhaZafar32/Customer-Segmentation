@@ -38,7 +38,7 @@ CustomerSegmentation/
 To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-git clone (https://github.com/MTalhaZafar32/Customer-Segmentation-.git )
+git clone (https://github.com/MTalhaZafar32/Customer-Segmentation.git )
 
 2. **Install Dependencies:** If there are any specific Python dependencies required for the project, you can install them.
 
@@ -53,7 +53,7 @@ git clone (https://github.com/MTalhaZafar32/Customer-Segmentation-.git )
 Contributions and enhancements to the project are highly encouraged. If you discover any issues or have ideas for improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the `MIT License`.
+This project is licensed under the Apache `License 2.0` - see the LICENSE file for details.
 
 ## Acknowledgments
 This project acknowledges the valuable resources and libraries from the Python ecosystem that enable data analysis and clustering.
