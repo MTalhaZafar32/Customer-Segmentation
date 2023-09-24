@@ -1,18 +1,18 @@
-# Investigate-a-Dataset-No-Show-Appointment
+# Customer Segmentation by K-Means, Spectral, and Gaussian Mixture Clustering Models
 
-## No Appointment Medical Attendance Analysis
-
-Welcome to the "Investigate-a-Dataset-No-Show-Appointment" repository! This Python project investigates a dataset of medical appointments in Brazil, with a focus on patient characteristics and their attendance or absence from scheduled appointments. The goal is to gain valuable insights into the factors influencing patient attendance at medical appointments.
+Welcome to the "Customer Segmentation" project repository! This Python project focuses on segmenting customers using various clustering models, including K-Means, Spectral, and Gaussian Mixture Clustering. The goal is to uncover meaningful customer segments based on their shopping behavior and characteristics. Here's an overview of the project:
 
 ## Project Overview
+The primary objective of this project is to perform customer segmentation using different clustering algorithms. The project consists of the following key components:
 
-The primary objectives of this project include data wrangling and exploratory data analysis. Here's a breakdown of the project components:
+1. **Data Exploration:** In this stage, we explore the dataset to understand its characteristics and features. We aim to gain insights into the underlying customer behavior.
 
-1. **Data Wrangling:** In this phase, we clean and prepare the dataset for analysis. We address missing values, duplicates, and inconsistencies to ensure the accuracy of our findings.
+2. **Data Preprocessing:** Data preprocessing involves tasks such as handling missing values, scaling features, and preparing the dataset for clustering.
 
-2. **Exploratory Data Analysis (EDA):** The EDA phase aims to uncover patterns and relationships within the dataset. We investigate key questions, such as the attendance ratio, the impact of waiting time, the effect of age and gender, and the influence of scholarships and SMS reminders.
+3. **Clustering Models:** We apply K-Means, Spectral, and Gaussian Mixture Clustering models to segment customers based on their behavior and attributes.
+
+4. **Evaluation:** The effectiveness of each clustering model is evaluated, and we analyze the resulting customer segments.
 
 ## Repository Structure
-
 The repository is structured as follows:
 
