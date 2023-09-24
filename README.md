@@ -38,7 +38,7 @@ CustomerSegmentation/
 To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-git clone https://github.com/your-username/Customer-Segmentation.git
+git clone (https://github.com/MTalhaZafar32/Customer-Segmentation-).git
 
 2. **Install Dependencies:** If there are any specific Python dependencies required for the project, you can install them.
 
